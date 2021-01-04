@@ -1,0 +1,1 @@
+# -28-8-20-Write-an-algorithm-to-perform-Two-dimensional-Translation-on-a-Point.-Assignment
